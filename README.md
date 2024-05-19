@@ -1,6 +1,8 @@
 Oi, eu sou o Douglas, mas não esse Douglas que você está pensando, sou um desenvolvedor C# tentando evoluir! 👋
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+            <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />            
+            <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+          
           
   
 </div>
