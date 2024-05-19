@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Douglasdossantos/Douglasdossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Oi, eu sou o Douglas, mas não esse Douglas que você está pensando, sou um desenvolvedor C# tentando evoluir! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
